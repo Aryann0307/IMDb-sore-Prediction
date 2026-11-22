@@ -1,0 +1,13 @@
+# Core data and ML libraries
+numpy
+pandas
+scikit-learn==1.9.1   # same version the bundled movie_rating_model.pkl was saved with
+joblib
+
+# Notebook visualizations
+matplotlib
+seaborn
+
+# Only needed to run the training notebook locally
+# (Tkinter for the desktop app comes with Python)
+notebook
